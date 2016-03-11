@@ -2,7 +2,7 @@ package com.currency;
 
 import java.util.List;
 
-public class Currency {
+public class Currency  {
 	private Integer id;
 	private String name;
 	private String code;
